@@ -1,0 +1,33 @@
+{
+  "name": "zero-out",
+  "version": "0.0.0",
+  "description": "Zero out (round-out/approximate) numerical values: 123,456,789 → 123,000,000",
+  "license": "MIT",
+  "repository": "radiovisual/zero-out",
+  "author": {
+    "name": "Michael Wuergler",
+    "email": "wuergler@gmail.com",
+    "url": "numetriclabs.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "round",
+    "number",
+    "num",
+    "approximate",
+    "zero",
+    "pad"
+  ],
+  "devDependencies": {
+    "ava": "^0.8.0",
+    "xo": "^0.12.1"
+  }
+}
