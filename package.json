@@ -1,6 +1,6 @@
 {
   "name": "zero-out",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Zero out (round-out/approximate) numerical values: 123,456,789 → 123,000,000",
   "license": "MIT",
   "repository": "radiovisual/zero-out",
